@@ -43,15 +43,15 @@ octra  is a blockchain network focused on Fully Homomorphic Encryption (FHE), of
 
 #  TASK 1 : TOKEN TRANSFER
 
-###  Open in Codespace
+###  Follow Steps 
 
- Go to 👉 [https://github.com/octra-labs/octra_pre_client](https://github.com/octra-labs/octra_pre_client)
+→ Go to Codespace - https://github.com/octra-labs/octra_pre_client
 
 ---
 
 ###   Install dependencies
 
-In the Codespace terminal, run:
+1.Run in Codespace terminal
 
 ```bash
 pip install -r requirements.txt
@@ -61,7 +61,7 @@ pip install -r requirements.txt
 
 ###  Create and edit wallet.json
 
-Create the wallet file:
+2. Create the wallet file:
 
 ```bash
 cp wallet.json.example wallet.json
@@ -89,4 +89,4 @@ Paste your test wallet details [That you generate Early ]
 python cli.py send --to oct5ziFzQJkiJFPfcQeuAmp4vhfQgjwb8gyx2W2TZdGhzJm --amount 0.01
 ```
 
-Send tokens to other Check  explorer: https://octrascan.io/
+→ Send tokens to other Check  explorer: https://octrascan.io/
