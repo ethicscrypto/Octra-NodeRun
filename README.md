@@ -3,12 +3,12 @@ octra  is a blockchain network focused on Fully Homomorphic Encryption (FHE), of
 
 💰Raised $4 million in Pre- Seed Funding   
 
-📌 If You like my Content you Can join My Socials  - https://linktr.ee/etccrypto
+📌 Video Guide - 
 
 
 #  Octra Wallet generation Guide
 
-📌 CodeSpace - https://github.com/codespaces
+⭐️ CodeSpace - https://github.com/codespaces
 
 ## Quick Start
 
@@ -32,14 +32,17 @@ octra  is a blockchain network focused on Fully Homomorphic Encryption (FHE), of
    ```
 ---
 
-** Done Now  Back up private key**
+** Done Now Back up private key**
 
-Faucet  https://faucet.octra.network/
----
-
-Discord - https://discord.gg/b6DGzdd3ph
+⭐️ Faucet  https://faucet.octra.network/
 
 ---
+
+⭐️ Discord - https://discord.gg/b6DGzdd3ph
+
+---
+
+
 
 
 #  TASK 1 : TOKEN TRANSFER
