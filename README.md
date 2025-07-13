@@ -34,6 +34,7 @@ octra  is a blockchain network focused on Fully Homomorphic Encryption (FHE), of
  ‼️Done Now Back up private key
 
 → Faucet  https://faucet.octra.network/
+
 → Discord - https://discord.gg/b6DGzdd3ph
 
 ---
